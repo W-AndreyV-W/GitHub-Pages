@@ -2,4 +2,4 @@
 
 ![][def]
 
-[def]: ../img/29.jpg
+[def]: /img/29.jpg
